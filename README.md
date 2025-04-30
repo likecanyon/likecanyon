@@ -4,6 +4,5 @@
 
 ### Hi there 👋
 ### This is likecanyon 
-Welcome, I am likecanyon,a PhD student focusing on robotics and AI, a life-long learner.
-
+- a PhD student focusing on robotics and AI, a life-long learner.
 - Personal website at [likecanyon.github.io](https://likecanyon.github.io/)
